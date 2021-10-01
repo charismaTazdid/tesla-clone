@@ -1,0 +1,91 @@
+ [
+    {
+        "id": 0,
+        "title": "Model S",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-s.jfif",
+        "range": "390",
+        "time": "1.99",
+        "topSpeed": "200",
+        "peakPower": "1,020",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "models"
+        
+    },
+    {
+        "id": 1,
+        "title": "Model Y",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-y.jpg",
+        "range": "410",
+        "time": "2.05",
+        "topSpeed": "190",
+        "peakPower": "1,040",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "modely"
+    },
+    {
+        "id": 2,
+        "title": "Model 3",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-3.jfif",
+        "range": "400",
+        "time": "2.99",
+        "topSpeed": "180",
+        "peakPower": "900",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "model3"
+    },
+    {
+        "id": 3,
+        "title": "Model X",
+        "description": "Order Online for Touchless Delivery",
+        "bgImage": "model-x.jpg",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "leftButtonText": "custom order",
+        "rightButtonText": "Existing Inventory",
+        "model" : "modelx"
+    },
+    {
+        "id": 4,
+        "title": "Solar Panels",
+        "description": "Lowest Cost Solar Panels in America",
+        "bgImage": "solar-panel.jpg",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More",
+        "model" : "solar"
+    },
+    {
+        "id": 5,
+        "title": "Solar Roof",
+        "description": "Produce Clean Energy From Your Roof",
+        "bgImage": "solar-roof.jpg",
+        "range": "350",
+        "time": "1.55",
+        "topSpeed": "150",
+        "peakPower": "1,130",
+        "leftButtonText": "Order now",
+        "rightButtonText": "Learn More"
+    },
+    {
+        "id": 6,
+        "title": "Accessories",
+        "description": "Produce Clean Energy From Your Roof",
+        "bgImage": "accessories.jpg",
+        "leftButtonText": "Shop Now"
+        
+    }
+
+   
+]
+
